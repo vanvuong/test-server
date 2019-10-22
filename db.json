@@ -24,19 +24,5 @@
             "body": "some comment",
             "postId": 1
         }
-    ],
-    "hotels": [
-        {
-            "name": "Hoa Hong",
-            "address": "ward 10, district 10, HCM",
-            "id": 1,
-            "phone_number": "0812321321"
-        },
-        {
-            "name": "River side",
-            "address": "ward 10, district 12, HCM",
-            "id": 2,
-            "phone_number": "0812321321"
-        }
     ]
 }
