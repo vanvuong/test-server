@@ -8,7 +8,24 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "hotels": [
+    {
+      "name": "Rose Area",
+      "address": "ward 10, district 10, HCM",
+      "phone": "012312312312",
+      "id": 1,
+    },
+    {
+      "name": "River side",
+      "address": "ward 10, district 1, HCM",
+      "phone": "012312312312",
+      "id": 2,
+    },
+    {
+      "name": "Mountain side",
+      "address": "ward 10, district 12, HCM",
+      "phone": "012312312312",
+      "id": 3,
+    },
+  ]
 }
