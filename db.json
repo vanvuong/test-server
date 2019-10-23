@@ -1,0 +1,39 @@
+{
+    "restaurants": [
+        {
+            "title": "Morning Food Centre",
+            "address": "1 Kadayanallur St, Singapore 069184",
+            "imageUrl": "https://examplecdn.com/23455.jpg"
+        },
+        {
+            "title": "Riverside Centre",
+            "address": "1 Kadayanallur St, Indonesia 069184",
+            "imageUrl": "https://examplecdn.com/23455.jpg"
+        },
+        {
+            "title": "Paskinton Centre",
+            "address": "1 Kadayanallur St, Malysia 069184",
+            "imageUrl": "https://examplecdn.com/23455.jpg"
+        }
+    ],
+    "answers": [
+        {
+            "title": "Morning Glory",
+            "answer": "Stir fried Morning Glory is a common Chinese dish",
+            "imageUrl": "https://examplecdn.com/12345.jpg"
+        },
+        {
+            "title": "Afternoon Glory",
+            "answer": "Stir fried Morning Glory is a common Chinese dish",
+            "imageUrl": "https://examplecdn.com/12345.jpg"
+        },
+        {
+            "title": "Evening Glory",
+            "answer": "Stir fried Morning Glory is a common Chinese dish",
+            "imageUrl": "https://examplecdn.com/12345.jpg"
+        },
+        {
+            "title": "Morning hangover cures"
+        }
+    ]
+}
